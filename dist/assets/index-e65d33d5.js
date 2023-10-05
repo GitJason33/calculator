@@ -2,7 +2,7 @@
   <div id="calculator">
     <h1 class="calc__title">CALCULATOR</h1>
     <section class="calc__input">
-      <article id="equation">111+111</article>
+      <article id="equation"></article>
       <div id="equ_placeholder">equation...</div>
 
       <h3 id="result">result...</h3>

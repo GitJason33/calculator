@@ -82,7 +82,10 @@ main {
 
 #calculator #equ_placeholder{
   visibility: hidden;
+  color: var(--clr-dark);
+  font-weight: 500;
 }
+
 #calculator #equation:empty + #equ_placeholder{
   padding-bottom: 24px;
   visibility: visible;
@@ -100,7 +103,6 @@ main {
   grid-template-columns: repeat(5, 1fr);
   gap: 4px;
 }
-
 
 #calculator button:disabled{
   cursor: not-allowed;

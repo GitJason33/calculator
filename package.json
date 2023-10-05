@@ -2,7 +2,7 @@
   "name": "calculator",
   "description": "This small calculator helped me best my logic further. Thanks to my dear friend @mansourH1 for motivating me on doing this",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "author": "Jason D.",
   "scripts": {
